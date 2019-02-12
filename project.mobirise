@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "publicatie 3BA",
-    "currentPage": "index.html",
+    "currentPage": "boeken.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1951,6 +1951,16 @@
               {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/atlas-1.jpg"
+              },
+              {
+                "active": false
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/atlas-1.jpg"
+              },
+              {
+                "active": false
               }
             ]
           }
@@ -3708,7 +3718,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"Atlas.html\" class=\"text-white\">A</a>tlas",
+                "caption": "<a href=\"Atlas.html\" class=\"text-white\">Atlas</a>",
                 "active": true
               }
             ]
@@ -4838,7 +4848,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"page15.html\" class=\"text-white\">Uitnodiging trouw</a>",
+                "caption": "<a href=\"trouwuitnodiging.html\" class=\"text-white\">Uitnodiging trouw</a>",
                 "active": true
               }
             ]
@@ -10767,7 +10777,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Uitnodiging voor een trouw met als thema \"festival\".<br></b><b style=\"font-size: 1rem;\">200 x 65mm</b></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Uitnodiging voor een trouw met als thema \"festival\".<br><span style=\"font-size: 1rem;\">200 x 65mm</span></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rhS5HwQGWS",
           "_protectedParams": [],
           "_global": false,
@@ -11534,7 +11544,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Deze site gaat over 3 willekeurige onderwerpen die niets met elkaar te maken hebben maar toch samenkomen. Julius Caesar, Roswell incident en de tijd om een hardgekookt ei te maken.</b></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Deze site gaat over 3 willekeurige onderwerpen die niets met elkaar te maken hebben maar toch samenkomen. Julius Caesar, Roswell incident en de tijd om een hardgekookt ei te maken.</div>\n        </div>\n    </div>\n</section>",
           "_cid": "rhSakekhcK",
           "_protectedParams": [],
           "_global": false,
@@ -12285,8 +12295,8 @@
                 "image": "@PROJECT_PATH@/assets/images/atlas-9.jpg"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/atlas-1.jpg"
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/atlas-2.jpg"
               }
             ]
           },
@@ -12302,7 +12312,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Dit is een bundeling van 232 voorwerpen die gecategorizeerd zijn door de meetkundige vormen en hun bijhorende oppervlaktes van klein naar groot.<br>210x297mm</b></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Dit is een bundeling van 232 voorwerpen die gecategorizeerd zijn door de meetkundige vormen en hun bijhorende oppervlaktes van klein naar groot.<br>210x297mm</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rhSfQo8dEE",
           "_protectedParams": [],
           "_global": false,
