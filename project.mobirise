@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "publicatie 3BA",
-    "currentPage": "index.html",
+    "currentPage": "boeken.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -7923,10 +7923,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "active": false
-              },
-              {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/wassalon-10-800x581.jpg"
               },
               {
@@ -7950,7 +7947,7 @@
                 "image": "@PROJECT_PATH@/assets/images/wassalon-7.jpg"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/wassalon-9.jpg"
               }
             ]
@@ -8714,11 +8711,11 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/platenhoes-1-800x580-800x580-800x580-800x580.jpg"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/platenhoes-3.jpg"
               },
               {
@@ -11523,9 +11520,6 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "active": false
-              },
-              {
                 "active": true,
                 "image": "@PROJECT_PATH@/assets/images/site-1-800x424.jpg"
               }
@@ -12290,12 +12284,40 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/atlas-9.jpg"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/atlas-2.jpg"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dschool3deportfolioafbeeldingenatlas-5.jpg"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/atlas-1.jpg"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dschool3deportfolioafbeeldingenatlas-8.jpg"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/atlas-3.jpg"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dschool3deportfolioafbeeldingenatlas-4.jpg"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/atlas-6.jpg"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dschool3deportfolioafbeeldingenatlas-7.jpg"
               }
             ]
           }
