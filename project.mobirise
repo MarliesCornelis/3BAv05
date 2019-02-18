@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "publicatie 3BA",
-    "currentPage": "index.html",
+    "currentPage": "Atlas.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -10731,33 +10731,6 @@
               {
                 "active": true,
                 "image": "@PROJECT_PATH@/assets/images/trouwuitnodiging-2.jpg"
-              },
-              {
-                "active": true
-              },
-              {
-                "active": true
-              },
-              {
-                "active": true
-              },
-              {
-                "active": true
-              },
-              {
-                "active": true
-              },
-              {
-                "active": true
-              },
-              {
-                "active": true
-              },
-              {
-                "active": true
-              },
-              {
-                "active": true
               }
             ]
           }
