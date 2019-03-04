@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "publicatie 3BA",
-    "currentPage": "index.html",
+    "currentPage": "grafischontwerp.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#ff0202",
+        "primaryColor": "#ff0000",
         "secondaryColor": "#ff3366",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
@@ -23,12 +23,12 @@
         "display7Size": 1,
         "display4Font": "arial",
         "display4Size": 1,
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#ff0202"
+        "#ff0000"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -50,7 +50,7 @@
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-127110852-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-127110852-1');\r\n</script>\r\n",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "uniqCompNum": 24,
-    "versionPublish": "4.9.3",
+    "versionPublish": "4.9.5",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -540,7 +540,7 @@
             "overlayOpacity": 0.6
           },
           "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-primary\" href=\"#\" data-max-id=\"1665225227111549982_6689559468\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-primary\" href=\"#\" data-max-id=\"1666921009409833729_6689559468\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
@@ -1904,63 +1904,11 @@
           "_params": {
             "slides__autoplay": false,
             "slides__autoplayInterval": 4000,
-            "slides__showBullets": true,
+            "slides__showBullets": false,
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-3.jpg"
-              },
-              {
-                "active": false
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/atlas-6.jpg"
-              },
-              {
-                "active": false
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/atlas-1.jpg"
-              },
-              {
-                "active": false
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/atlas-2.jpg"
-              },
-              {
-                "active": false
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/atlas-3.jpg"
-              },
-              {
-                "active": false
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/atlas-3.jpg"
-              },
-              {
-                "active": false
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/atlas-1.jpg"
-              },
-              {
-                "active": false
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/atlas-1.jpg"
-              },
-              {
-                "active": false
+                "image": "@PROJECT_PATH@/assets/images/mbr-4.jpg"
               }
             ]
           }
@@ -5591,7 +5539,7 @@
           "_params": {
             "slides__autoplay": false,
             "slides__autoplayInterval": 4000,
-            "slides__showBullets": true,
+            "slides__showBullets": false,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/minima-docta-3-800x1162.jpg",
@@ -6368,7 +6316,7 @@
           "_params": {
             "slides__autoplay": false,
             "slides__autoplayInterval": 4000,
-            "slides__showBullets": true,
+            "slides__showBullets": false,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/affiche-minima-docta-2.jpg",
@@ -7145,7 +7093,7 @@
           "_params": {
             "slides__autoplay": false,
             "slides__autoplayInterval": 4000,
-            "slides__showBullets": true,
+            "slides__showBullets": false,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/minima-docta-4.jpg",
@@ -7922,7 +7870,7 @@
           "_params": {
             "slides__autoplay": false,
             "slides__autoplayInterval": 4000,
-            "slides__showBullets": true,
+            "slides__showBullets": false,
             "slides": [
               {
                 "active": true,
@@ -8710,7 +8658,7 @@
           "_params": {
             "slides__autoplay": false,
             "slides__autoplayInterval": 4000,
-            "slides__showBullets": true,
+            "slides__showBullets": false,
             "slides": [
               {
                 "active": true,
@@ -9482,7 +9430,7 @@
           "_params": {
             "slides__autoplay": false,
             "slides__autoplayInterval": 4000,
-            "slides__showBullets": true,
+            "slides__showBullets": false,
             "slides": [
               {
                 "active": false,
@@ -10724,7 +10672,7 @@
           "_params": {
             "slides__autoplay": false,
             "slides__autoplayInterval": 4000,
-            "slides__showBullets": true,
+            "slides__showBullets": false,
             "slides": [
               {
                 "active": false,
@@ -11492,7 +11440,7 @@
           "_params": {
             "slides__autoplay": false,
             "slides__autoplayInterval": 4000,
-            "slides__showBullets": true,
+            "slides__showBullets": false,
             "slides": [
               {
                 "active": true,
@@ -12256,19 +12204,25 @@
           "_params": {
             "slides__autoplay": false,
             "slides__autoplayInterval": 4000,
-            "slides__showBullets": true,
+            "slides__showBullets": false,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/atlas-9.jpg"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/atlas-2.jpg"
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/atlas-2.jpg",
+                "showTitle": false,
+                "showButtons": false
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dschool3deportfolioafbeeldingenatlas-5.jpg"
+                "image": "@PROJECT_PATH@/assets/images/dschool3deportfolioafbeeldingenatlas-5.jpg",
+                "overlay": false,
+                "contentAlign": "center",
+                "showText": false,
+                "showButtons": false
               },
               {
                 "active": false,
