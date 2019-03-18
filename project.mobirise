@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "publicatie 3BA",
-    "currentPage": "grafischontwerp.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#ff0000",
+        "primaryColor": "#cc1414",
         "secondaryColor": "#ff3366",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
@@ -28,7 +28,7 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#ff0000"
+        "#cc1414"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -540,7 +540,7 @@
             "overlayOpacity": 0.6
           },
           "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-primary\" href=\"#\" data-max-id=\"1666921009409833729_6689559468\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-primary\" href=\"#\" data-max-id=\"1694994499400616890_6689559468\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
