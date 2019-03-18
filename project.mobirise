@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "publicatie 3BA",
-    "currentPage": "index.html",
+    "currentPage": "overige.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4231,7 +4231,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"site.html\">Site</a>",
+                "caption": "<a href=\"site.html\" class=\"text-white\">Site</a>",
                 "active": true
               }
             ]
